@@ -1,9 +1,8 @@
 # car-rental-system
-In this ystem the customer is requiered to enter their name , email , phone number and choose a car from the available ones, (enter the numbwr plte as diplayed in the table).
-If the numberpalte entered is correct, the user is requered to enter the number of day they will borrow the car for. The car details together with the cutomer name and price are displayed to indicate the car has been lended successfully.
-Here are the classes and methods used.
-DOCUMENTATION
+In this system the customer is required to enter their name, email, phone number and choose a car from the available ones, (enter the number plate as displayed in the table).
+If the numberplate entered is correct, the user is required to enter the number of days they will borrow the car for. The car details together with the customer name and price are displayed to indicate the car has been landed successfully.
 
+Here are the classes and methods used.
 CLASSES AND METHODS
 CAR CLASS
   ATTRIBUTES:
