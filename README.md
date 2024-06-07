@@ -1,5 +1,5 @@
 # car-rental-system
-In this ystem the customer is requiered to enter tehir name , email , phone number and choose a car from the available ones, (enter the numbwr plte as diplayed in the table).
+In this ystem the customer is requiered to enter their name , email , phone number and choose a car from the available ones, (enter the numbwr plte as diplayed in the table).
 If the numberpalte entered is correct, the user is requered to enter the number of day they will borrow the car for. The car details together with the cutomer name and price are displayed to indicate the car has been lended successfully.
 Here are the classes and methods used.
 DOCUMENTATION
